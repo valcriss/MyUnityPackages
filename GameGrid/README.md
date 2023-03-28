@@ -1,4 +1,4 @@
-# RTS Camera
+# Game Grid
 
 Inspired by the work of [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity)
 
