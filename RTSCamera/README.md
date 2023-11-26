@@ -8,4 +8,6 @@ Depends on :
 - Cinemachine
 - Input System
 
+Remove MainCamera and add RTS Camera Prefab
+
 ![Properties](properties.png)
