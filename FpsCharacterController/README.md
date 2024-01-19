@@ -9,10 +9,9 @@ Depends on :
 - Input System
 
 Implements :
+- Remove MainCamera
 - Add Player Prefab
-- Add Virtual Camera Prefab
 - Add InputManager Prefab
-- Add CinemachineBrain to main Camera
 
 
 
