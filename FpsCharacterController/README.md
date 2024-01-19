@@ -1,4 +1,4 @@
-# FPS Camera
+# FPS Character Controller
 
 Based on [Samyam](https://www.youtube.com/@samyam) video [here](https://www.youtube.com/watch?v=5n_hmqHdijM)
 
