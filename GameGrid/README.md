@@ -9,3 +9,5 @@ Depends on :
 - Input System
 
 ![Properties](properties.png)
+
+- Updated to Unity 6

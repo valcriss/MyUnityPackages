@@ -11,3 +11,5 @@ Depends on :
 Remove MainCamera and add RTS Camera Prefab
 
 ![Properties](properties.png)
+
+- Updated to Unity 6
